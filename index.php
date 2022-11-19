@@ -62,9 +62,7 @@
 
                     if($valor==''){
                         $valor="<img  width='50' src='img/desconocido.png'>";
-                    }
-
-                    
+                    }  
                 ?>
                 <tr>
                     <td><?php echo $contador;?></td>
