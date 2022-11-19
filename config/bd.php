@@ -2,9 +2,9 @@
 
 function conexion(){
     
-    $user = 'Mydbuser';
-    $pass = 'Mypassword';
-    $dataBase = 'Database';
+    $user = 'MyUser';
+    $pass = 'MyPassword';
+    $dataBase = 'DataBase';
 
     $con=mysqli_connect('localhost',$user,$pass,$dataBase);
     return $con;
