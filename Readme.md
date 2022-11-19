@@ -2,7 +2,7 @@
 PROYECTO CRUD DE ARCHIVOS PDF CON PHP
 ----------------------------------------------------------------------------------------------------------------------
 
-Para poder utilizar el proyecto se debe tener intalado el paquete de XAMPP en el equipo para poder utilizar tanto los interpretes del leguaje PHP y la base de datos MySQL, todo este proyecto corre en el servidor web de Apache en el LocalHost.
+Para poder utilizar el proyecto se debe tener instalado el paquete de XAMPP en el equipo para poder utilizar tanto los interpretes del leguaje PHP y la base de datos MySQL, todo este proyecto corre en el servidor web de Apache en el LocalHost.
 
 ----------------------------------------------------------------------------------------------------------------------
 
